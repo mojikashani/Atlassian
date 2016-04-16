@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HipChat</string>
+
+    <string name="enter_message">Please enter your message</string>
+    <string name="json_content">Your JSon content will be shown here&#8230;</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="retrieve_web_title">Retrieving web title&#8230;</string>
+    <string name="extract">Extract</string>
+
+</resources>

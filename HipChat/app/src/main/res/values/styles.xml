@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="MyActionBar" parent="Widget.AppCompat.ActionBar.Solid">
+        <item name="background">@color/hip_blue_bar</item>
+        <item name="android:titleTextStyle">@style/AppTheme.ActionBar.TitleTextStyle</item>
+        <item name="titleTextStyle">@style/AppTheme.ActionBar.TitleTextStyle</item>
+    </style>
+
+    <style name="AppTheme.ActionBar.TitleTextStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/hip_blue_txt</item>
+    </style>
+
+</resources>
